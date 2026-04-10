@@ -1,0 +1,2 @@
+username=gemini
+maxConnections=10
